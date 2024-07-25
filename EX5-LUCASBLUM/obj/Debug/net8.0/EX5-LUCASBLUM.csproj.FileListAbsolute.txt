@@ -1,0 +1,14 @@
+C:\Users\aluno\Desktop\EX5-LUCASBLUM\bin\Debug\net8.0\EX5-LUCASBLUM.exe
+C:\Users\aluno\Desktop\EX5-LUCASBLUM\bin\Debug\net8.0\EX5-LUCASBLUM.deps.json
+C:\Users\aluno\Desktop\EX5-LUCASBLUM\bin\Debug\net8.0\EX5-LUCASBLUM.runtimeconfig.json
+C:\Users\aluno\Desktop\EX5-LUCASBLUM\bin\Debug\net8.0\EX5-LUCASBLUM.dll
+C:\Users\aluno\Desktop\EX5-LUCASBLUM\bin\Debug\net8.0\EX5-LUCASBLUM.pdb
+C:\Users\aluno\Desktop\EX5-LUCASBLUM\obj\Debug\net8.0\EX5-LUCASBLUM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\EX5-LUCASBLUM\obj\Debug\net8.0\EX5-LUCASBLUM.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\EX5-LUCASBLUM\obj\Debug\net8.0\EX5-LUCASBLUM.AssemblyInfo.cs
+C:\Users\aluno\Desktop\EX5-LUCASBLUM\obj\Debug\net8.0\EX5-LUCASBLUM.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\EX5-LUCASBLUM\obj\Debug\net8.0\EX5-LUCASBLUM.dll
+C:\Users\aluno\Desktop\EX5-LUCASBLUM\obj\Debug\net8.0\refint\EX5-LUCASBLUM.dll
+C:\Users\aluno\Desktop\EX5-LUCASBLUM\obj\Debug\net8.0\EX5-LUCASBLUM.pdb
+C:\Users\aluno\Desktop\EX5-LUCASBLUM\obj\Debug\net8.0\EX5-LUCASBLUM.genruntimeconfig.cache
+C:\Users\aluno\Desktop\EX5-LUCASBLUM\obj\Debug\net8.0\ref\EX5-LUCASBLUM.dll
