@@ -1,0 +1,14 @@
+C:\Users\aluno\source\repos\EX3-TEMPERATURA-LUCASBLUM\bin\Debug\net8.0\EX3-TEMPERATURA-LUCASBLUM.exe
+C:\Users\aluno\source\repos\EX3-TEMPERATURA-LUCASBLUM\bin\Debug\net8.0\EX3-TEMPERATURA-LUCASBLUM.deps.json
+C:\Users\aluno\source\repos\EX3-TEMPERATURA-LUCASBLUM\bin\Debug\net8.0\EX3-TEMPERATURA-LUCASBLUM.runtimeconfig.json
+C:\Users\aluno\source\repos\EX3-TEMPERATURA-LUCASBLUM\bin\Debug\net8.0\EX3-TEMPERATURA-LUCASBLUM.dll
+C:\Users\aluno\source\repos\EX3-TEMPERATURA-LUCASBLUM\bin\Debug\net8.0\EX3-TEMPERATURA-LUCASBLUM.pdb
+C:\Users\aluno\source\repos\EX3-TEMPERATURA-LUCASBLUM\obj\Debug\net8.0\EX3-TEMPERATURA-LUCASBLUM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\source\repos\EX3-TEMPERATURA-LUCASBLUM\obj\Debug\net8.0\EX3-TEMPERATURA-LUCASBLUM.AssemblyInfoInputs.cache
+C:\Users\aluno\source\repos\EX3-TEMPERATURA-LUCASBLUM\obj\Debug\net8.0\EX3-TEMPERATURA-LUCASBLUM.AssemblyInfo.cs
+C:\Users\aluno\source\repos\EX3-TEMPERATURA-LUCASBLUM\obj\Debug\net8.0\EX3-TEMPERATURA-LUCASBLUM.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\EX3-TEMPERATURA-LUCASBLUM\obj\Debug\net8.0\EX3-TEMPERATURA-LUCASBLUM.dll
+C:\Users\aluno\source\repos\EX3-TEMPERATURA-LUCASBLUM\obj\Debug\net8.0\refint\EX3-TEMPERATURA-LUCASBLUM.dll
+C:\Users\aluno\source\repos\EX3-TEMPERATURA-LUCASBLUM\obj\Debug\net8.0\EX3-TEMPERATURA-LUCASBLUM.pdb
+C:\Users\aluno\source\repos\EX3-TEMPERATURA-LUCASBLUM\obj\Debug\net8.0\EX3-TEMPERATURA-LUCASBLUM.genruntimeconfig.cache
+C:\Users\aluno\source\repos\EX3-TEMPERATURA-LUCASBLUM\obj\Debug\net8.0\ref\EX3-TEMPERATURA-LUCASBLUM.dll
