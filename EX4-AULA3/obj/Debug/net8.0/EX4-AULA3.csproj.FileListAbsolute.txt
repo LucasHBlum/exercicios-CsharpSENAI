@@ -1,0 +1,14 @@
+C:\Users\aluno\Desktop\EX4-AULA3\bin\Debug\net8.0\EX4-AULA3.exe
+C:\Users\aluno\Desktop\EX4-AULA3\bin\Debug\net8.0\EX4-AULA3.deps.json
+C:\Users\aluno\Desktop\EX4-AULA3\bin\Debug\net8.0\EX4-AULA3.runtimeconfig.json
+C:\Users\aluno\Desktop\EX4-AULA3\bin\Debug\net8.0\EX4-AULA3.dll
+C:\Users\aluno\Desktop\EX4-AULA3\bin\Debug\net8.0\EX4-AULA3.pdb
+C:\Users\aluno\Desktop\EX4-AULA3\obj\Debug\net8.0\EX4-AULA3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\EX4-AULA3\obj\Debug\net8.0\EX4-AULA3.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\EX4-AULA3\obj\Debug\net8.0\EX4-AULA3.AssemblyInfo.cs
+C:\Users\aluno\Desktop\EX4-AULA3\obj\Debug\net8.0\EX4-AULA3.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\EX4-AULA3\obj\Debug\net8.0\EX4-AULA3.dll
+C:\Users\aluno\Desktop\EX4-AULA3\obj\Debug\net8.0\refint\EX4-AULA3.dll
+C:\Users\aluno\Desktop\EX4-AULA3\obj\Debug\net8.0\EX4-AULA3.pdb
+C:\Users\aluno\Desktop\EX4-AULA3\obj\Debug\net8.0\EX4-AULA3.genruntimeconfig.cache
+C:\Users\aluno\Desktop\EX4-AULA3\obj\Debug\net8.0\ref\EX4-AULA3.dll
